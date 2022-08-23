@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\layout\\flexbox-design"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "detroix"
+	}
+}
